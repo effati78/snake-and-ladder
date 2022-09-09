@@ -14,7 +14,7 @@ This is a snake and ladder game source code that is implemented with c++ program
 ## Usage
 
 ```
-https://github.com/effati78/snake-and-ladder.git
+git clone https://github.com/effati78/snake-and-ladder.git
 ```
 Or download the project and run it
 
