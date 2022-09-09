@@ -1,18 +1,13 @@
 #include<iostream>
-
 #include<stdlib.h>
-
 #include<iomanip>
-
 #include<conio.h>
-
 #include<windows.h>
-
 #include<ctime>
-
 #include<fstream>
 
 using namespace std;
+
 void chap(int[]);
 void chap2(int[]);
 void chap3(int);
